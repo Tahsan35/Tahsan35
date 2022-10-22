@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ Tahsan
-- 👀 I’m interested in meran stack web development
+- 👀 I’m interested in mern stack developer
 - 🌱 I’m currently learning redux,next js...
 - 📫 How to reach me ... tahsanshakil531@gmail.com
 
